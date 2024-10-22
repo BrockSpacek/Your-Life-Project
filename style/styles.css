@@ -74,3 +74,7 @@ imageSizeThree{
 .underline{
     text-decoration-line: underline;
 }
+
+.fontsizeAcc{
+    font-size: 33px;
+}
