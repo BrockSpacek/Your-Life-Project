@@ -1,0 +1,76 @@
+@font-face {
+    font-family: Italianno;
+    src: url("../assets/Italianno-Regular.ttf");
+}
+
+body{
+    background-image: url(../assets/antique-big.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.navBackground{
+    background-color: #A86E6E;
+    font-family: Italianno;
+    font-size: 40px;
+    
+}
+
+.textSize{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 33px;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.textSizeTwo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 3rem;
+}
+.header{
+    font-family: Italianno;
+    font-size: 64px;
+    padding-top: 3rem;
+    padding-left: 30rem;
+}
+
+.headerTwo{
+    font-family: Italianno;
+    font-size: 64px;
+    padding-top: 10rem;
+    padding-left: 30rem;
+}
+
+.imageSize{
+    height: 500px;
+    width: 500px;
+    padding-top: 3rem;
+
+}
+
+.accordSpacing{
+    padding-top: 5rem;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imageSizeInterests{
+    height: 500px;
+    width: 500px;
+   padding-top: -15rem;
+   padding-bottom: 10rem;
+
+}
+
+imageSizeThree{
+    height: 700px;
+    width: 700px;
+    padding-top: 10rem
+}
+
+.underline{
+    text-decoration-line: underline;
+}
