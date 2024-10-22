@@ -11,9 +11,10 @@ body{
 }
 
 .navBackground{
-    background-color: #A86E6E;
+    background-color: rgba(168, 110, 110, 0.6);
     font-family: Italianno;
     font-size: 40px;
+    
     
 }
 
@@ -26,7 +27,7 @@ body{
 
 .textSizeTwo{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-size: 30px;
     text-align: center;
     padding-top: 3rem;
 }
@@ -58,10 +59,8 @@ body{
 }
 
 .imageSizeInterests{
-    height: 500px;
+    height: 400px;
     width: 500px;
-   padding-top: -15rem;
-   padding-bottom: 10rem;
 
 }
 
@@ -76,5 +75,11 @@ imageSizeThree{
 }
 
 .fontsizeAcc{
-    font-size: 33px;
+    font-size: 50px;
+    font-family: Italianno;
+}
+
+.iconSize{
+    height: 150px;
+    width: 250px;
 }
